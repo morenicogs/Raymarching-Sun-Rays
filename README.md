@@ -9,3 +9,5 @@ How it works:
 It creates a circle with as radius the closest distance to an object and does the same thing for a point on that circle.
 
 
+Test it out:
+https://morenicogs.github.io/Raymarching-Sun-Rays/
